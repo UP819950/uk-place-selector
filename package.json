@@ -1,0 +1,28 @@
+{
+  "name": "uk-place-selector",
+  "version": "1.0.0",
+  "description": "Returns a random UK place name",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UP819950/uk-place-selector.git"
+  },
+  "keywords": [
+    "random",
+    "uk",
+    "places",
+    "uk-places",
+    "random-selector",
+    "geography"
+  ],
+  "author": "UP819950",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UP819950/uk-place-selector/issues"
+  },
+  "homepage": "https://github.com/UP819950/uk-place-selector#readme"
+}
