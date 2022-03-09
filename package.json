@@ -1,6 +1,6 @@
 {
   "name": "uk-place-selector",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Returns a random UK place name",
   "main": "index.cjs",
   "type": "module",
