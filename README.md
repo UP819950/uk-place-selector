@@ -13,7 +13,7 @@ npm i uk-place-selector
 Require with:
 
 ```js
-const ukPLaces = require('uk-place-selector');
+const ukPlaces = require('uk-place-selector');
 ```
 
 ## Usage 
